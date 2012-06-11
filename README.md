@@ -36,7 +36,7 @@ If compilation succeeds, `uneof.jar` will be created.
 
 Written by Marshall Abrams, but several lines of code are copied from NetLogo/src/main/org/nlogo/workspace/DefaultFileManager.java, which is (C) Uri Wilensky. https://github.com/NetLogo/NetLogo .
 
-Thanks to Seth Tisue for adding the FileManager.currentFile() method, and for several tips pointing me in the right direction.  
+Thanks to Seth Tisue for adding the FileManager.currentFile() method to the NetLogo 5.0.2 source code, and for several tips pointing me in the right direction.  
 
 ## Terms of Use
 
